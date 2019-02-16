@@ -957,8 +957,8 @@
         "name": "Levendig dorp"
     },
     "Capital": {
-        "description": "Leg je deze kaart af (normaal gesproken tijdens de opschoonfase van je beurt), dan krijg je 6 Debt en een extra mogelijkheid om Debt met _ Coins af te kopen, op dat moment. Je krijgt de 6 Debt niet als je de kaart niet uit het spel aflegt (bijvoorbeeld als je de kaart met Vals Geld ( uit Dominion: De Donkere Middeleeuwen) vernietigd). Je krijgt 6 Debt per vernietigd exemplaar van Kapitaal, dus gebruik je bijvoorbeeld de Kroon om Kapitaal tweemaal te spelen, dan krijg je maar 6 Debt voor het afleggen van het ene exemplaar.",
-        "extra": "Leg je deze kaar taf (normaal gesproken tijdens de opschoonfase van je buert), dan krijg je 6 Debt en een extra mogelijkheid om Debt met _ Coin af te kopen, op dat moment. Je krijgt de 6 Debt niet als je de kaart niet uit het spel aflegt (bijvoorbeeld als je de kaart met Vals Geld (uit Dominion: De Donkere Middeleeuwen) vernietigt). Je krijgt 6 Debt per vernietigd exemplaar van Kapitaal, dus gebruik je bijvoorbeeld de Kroon om Kapitaal tweemaal te spelen, dan krijg je maar 6 Debt voor het afleggen van het ene exemplaar.",
+        "description": "6 <*COIN*><n>+1 Aanschaf<line>Als je deze kaart vanuit het spel aflegt, neem 6 Debt, en daarna mag je Debt afbetalen.",
+        "extra": "Leg je deze kaart af (normaal gesproken tijdens de opschoonfase van je buert), dan krijg je 6 Debt en een extra mogelijkheid om Debt met _ Coin af te kopen, op dat moment. Je krijgt de 6 Debt niet als je de kaart niet uit het spel aflegt (bijvoorbeeld als je de kaart met Vals Geld (uit Dominion: De Donkere Middeleeuwen) vernietigt). Je krijgt 6 Debt per vernietigd exemplaar van Kapitaal, dus gebruik je bijvoorbeeld de Kroon om Kapitaal tweemaal te spelen, dan krijg je maar 6 Debt voor het afleggen van het ene exemplaar.",
         "name": "Kapitaal"
     },
     "Castles": {
@@ -1024,7 +1024,7 @@
         "name": "Donatie"
     },
     "Emporium": {
-        "description": "+1 Kaart<br>+1 Actie<br>+1 Coin<line>When you gain this, if you have at least 5 Action cards in play, +2 <VP>.",
+        "description": "+1 Kaart<br>+1 Actie<br>+1 Coin<line>Als je deze kart pakt en je hebt ten minste 5 actiekaarten in het spel, +2 <VP>.",
         "extra": "This counts Action cards in play, including Action cards played this turn, Duration cards in play from previous turns, and Reserve cards (from Adventures) called into play this turn.",
         "name": "Emporium"
     },
@@ -1044,13 +1044,13 @@
         "name": "Ingenieur"
     },
     "Farmers' Market": {
-        "description": "+1 Aanschaf<n>Als er 4 of meer <VP> op de Boerenmarktvoorraadstapel liggen, neem je ze allemaal en vernietig deze Boerenmarkt.Zo niet, voeg dan 1 <VP> aan de stapel toe en daarna +1 Coin per 1 <VP> op de stapel.",
+        "description": "+1 Aanschaf<n>Als er 4 of meer <VP> op de Boerenmarktvoorraadstapel liggen, neem je ze allemaal en vernietig deze Boerenmarkt. Zo niet, voeg dan 1 <VP> aan de stapel toe en daarna +1 Coin per 1 <VP> op de stapel.",
         "extra": "De eerste keer dat de kaart gespeeld wordt, geeft deze +1 Coin (and +1 Aanschaf), de tweede keer +2 Coin, dan +3 Coin, dan +4 Coin, en bij de vijfde keer neemt de speler de 4 <VP> (en krijgt geen  + _ Coin). Bij de volgende keer krijgt de speler weer +1 Coin, enzovoort. Dit functioneert ook zo als de Boerenmarktstapel leeg is.",
         "name": "Boerenmarkt"
     },
     "Fortune": {
-        "description": "+1 Aanschaf<n>Verdubbel bij het spelen van deze kaart je Coin als je dat deze beurt nog niet hebt gedaan.<line>Als je deze kaart pakt, pak dan een Goud per Gladiator die je in het spel hebt.",
-        "extra": "Je verdubbelt je Coin alleen bij de eerste keer dat je Fortuin in je beurt speelt, bij elk volgende krijg je uitsluitend +1 Aanschaf",
+        "description": "+1 Aanschaf<n>Verdubbel bij het spelen van deze kaart je _ Coin als je dat deze beurt nog niet hebt gedaan.<line>Als je deze kaart pakt, pak dan een Goud per Gladiator die je in het spel hebt.",
+        "extra": "Je verdubbelt je _ Coin alleen bij de eerste keer dat je Fortuin in je beurt speelt, bij elk volgende krijg je uitsluitend +1 Aanschaf",
         "name": "Fortuin"
     },
     "Forum": {
@@ -1132,7 +1132,7 @@
         "name": "Patriciër"
     },
     "Plunder": {
-        "description": "+2 Coin<br>+1<VP>",
+        "description": "2 <*COIN*><br>+1<VP>",
         "extra": "Deze kaart geeft je elke keer dat je hem speelt een <VP>-fiche.",
         "name": "Plunderen"
     },
@@ -1142,7 +1142,7 @@
         "name": "Ritueel"
     },
     "Rocks": {
-        "description": "+1 Coin<line>Als je deze kaart pakt of vernietigt, pak een Zilver. Is het je aanschaf-fase, leg het Zilver dan op je trekstapel. Zo niet, neem het Zilver dan in je hand.",
+        "description": "1 <*COIN*><line>Als je deze kaart pakt of vernietigt, pak een Zilver. Is het je aanschaffase, leg het Zilver dan op je trekstapel. Zo niet, neem het Zilver dan in je hand.",
         "extra": "Is het de beurt van een andere speler, dan is het niet jouw aanschaffase, dus gaat het Zilver naar je hand.",
         "name": "Rotsblokken"
     },
@@ -1200,7 +1200,7 @@
         "untranslated": "description, extra"
     },
     "Villa": {
-        "description": "+2 Acties<br>+1 Aanschaf<br>+1 Coin<line>Als je deze kaart pakt,neem je die in je hand, +1 Actie, en als het je aanschaffase is, ga terug naar je actiefase.",
+        "description": "+2 Acties<br>+1 Aanschaf<br>+1 Coin<line>Als je deze kaart pakt, neem je die in je hand, +1 Actie, en als het je aanschaffase is, ga terug naar je actiefase.",
         "extra": "Pak je deze kaart tijdens je actiefase, zoals met een Ingenieur, dan neem je de Villa in je hand en krijg je +1 Actie (waarmee je bijvoorbeeld de Villa zou kunnen spelen). Pak je de Villa in je aanschaffase (bijvoorbeeld door deze te kopen), dan neem je de Villa in je hand, krijg je +1 Actie en ga je terug naar je actiefase. Dit staat je toe om meer actiekaarten te spelen (zoals de Villa zelf). Ben je daarmee klaar, dan ga je weer naar de start van je aanschaffase, waarin je opnieuw geldkaarten mag spelen (en de Arena ook weer actief wordt). Het kopen van de Villa verbruikt de standaard aanschaf van je beurt, maar het spelen van de Villa levert je +1 Aanschaf op, waardoor je nog een kaart zou kunnen kopen. Pak je een Villa tijden de beurt van een andere speler, dan krijg je +1 Actie, maar heb je niet de mogelijkheid om deze te gebruiken, omdat je niet aan de beurt bent. Het is mogelijk om meermaals naar je actiefase terug te gaan als je in je beurt meerdere Villas koopt. Het teruggaan naar je actiefase activeert geen eigenschappen die \"aan het begin van je beurt\" plaatsvinden.",
         "name": "Villa"
     },
