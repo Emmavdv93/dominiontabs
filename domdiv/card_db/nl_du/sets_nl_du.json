@@ -21,7 +21,7 @@
     },
     "base": {
         "set_name": "Basis",
-        "set_text": "This is all the basic Victory, Treasure, and Curse cards from the <i>Dominion</i> games and its expansions. It does not include any Victory or Treasure cards that are Kingdom cards.",
+        "set_text": "Dit zijn alle basis Overwinning-, Geld-, en Vloekkaarten van de <i>Dominion</i> spellen en uitbreidingen. Het bevat geen Overwinning- of Geldkaarten welke ook Koninkrijkkaarten zijn.",
         "text_icon": "B"
     },
     "cornucopia": {
@@ -51,8 +51,8 @@
         "text_icon": "D1"
     },
     "dominion2ndEdition": {
-        "set_name": "Dominion 2nd Edition",
-        "set_text": "You are a monarch, like your parents before you, a ruler of a small pleasant kingdom of rivers and evergreens. Unlike your parents, however, you have hopes and dreams! You want a bigger and more pleasant kingdom, with more rivers and a wider variety of trees. You want a Dominion! In all directions lie fiefs, freeholds, and feodums. All are small bits of land, controlled by petty lords and verging on anarchy. You will bring civilization to these people, uniting them under your banner.\nBut wait! It must be something in the air; several other monarchs have had the exact same idea. You must race to get as much of the unclaimed land as possible, fending them off along the way. To do this you will hire minions, construct buildings, spruce up your castle, and fill the coffers of your treasury. Your parents wouldn't be proud, but your grandparents, on your mother's side, would be delighted.",
+        "set_name": "Dominion 2de editie",
+        "set_text": "Je bent een vorst, net als je ouders dat vóór jou waren, een heerser over een klein, vredig koninkrijk vol rivieren en groenblijvend natuurschoon. Maar in tegenstelling tot je ouders heb je verwachtingen... dromen! Je wilt een groter en nog fraaier koninkrijk, met meer rivieren en een grotere variëteit aan bomen. Je wilt een dominion! In alle richtingen liggen allerlei stukken land, in het bezit van kneuterige landheren en grenzend aan anarchie. Jij gaat deze ongelukkigen aan beschaving helpen door ze onder jouw vlag te verenigen.\nMaar wacht. Het moet iets in de lucht zijn; een paar andere vorsten hebben precies hetzelfde plan. Je moet je haasten om zoveel mogelijk land te bemachtigen, terwijl je hen ervan weg probeert te houden. Je neemt dienaren aan, zet gebouwen neer, knapt je kasteel open zorgt ervoor dat je schatkisten uitpuilen. Je ouders zouden niet trots zijn geweest, maar je grootouders van je moeders kant wel.",
         "short_name": "Dominion",
         "text_icon": "D2"
     },
@@ -94,8 +94,8 @@
         "text_icon": "I1"
     },
     "intrigue2ndEdition": {
-        "set_name": "Intrige 2nd Edition",
-        "set_text": "Something's afoot. The steward smiles at you like he has a secret, or like he thinks you have a secret, or like you think he thinks you have a secret. There are secret plots brewing, you're sure of it. At the very least, there are yours. A passing servant murmurs, \"The eggs are on the plate.\" You frantically search your codebook for the translation before realizing he means that breakfast is ready. Excellent. Everything is going according to plan.\n<i>Dominion: Intrigue (Second Edition)</i>, an expansion for <i>Dominion</i> or <i>Dominion (Second Edition)</i>, contains 26 Kingdom card types that can be used with the base game, while also adding rules for playing with up to eight players at two tables or for playing a single game with up to six players.\n<i>Dominion: Intrigue (Second Edition)</i> replaces six Kingdom card types from the first edition with six new types of Kingdom cards, while also replacing the blank cards in that item with a seventh new Kingdom card; these new cards are also available on their own in the <i>Dominion: Intrigue Update Pack</i>. In addition, the rulebook has been rewritten, one card has had a mild functional change (Masquerade skips players with no cards in hand), and other cards have received updated wording while remaining functionally the same.",
+        "set_name": "Intrige 2de editie",
+        "set_text": "Er is iets aan de hand. De lakei glimlacht naar je alsof hij een geheim met zich meedraagt, of alsof hij denkt dat jij iets achterhoudt, of alsof jij denkt dat hij denkt dat je een geheim bewaart. Je bent er zeker van dat er complotten worden gesmeed. Maar hopelijk alleen door jou. Een dienaar zegt in het voorbijgaan: \"Uw omelet is klaar.\" Je zoekt koortsachtig in je codeboek wat hiermee wordt bedoeld totdat je je realiseert dat het ontbijt op je wacht. Uitstekend. Alles loopt volgens plan.\nDit is de eerste uitbreiding op <i>Dominion</i> en bevat 300 kaarten. Er zijn overwinningskaarten die dingen voor je doen, onderdanen die je laten kiezen wat ze moeten doen, en nog veel meer nieuwe personen en locaties.\n<i>Dominion Intrige!</i> kan uitsluitend in combinatie met het basisspel <i>Dominion</i> worden gespeeld. <i>Dominion Intrige!</i> kan uitstekend met alle andere uitbreidingen van <i>Dominion</i> worden gecombineerd.",
         "short_name": "Intrige",
         "text_icon": "I2"
     },
