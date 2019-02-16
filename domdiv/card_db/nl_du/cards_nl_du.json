@@ -1487,17 +1487,17 @@
         "name": "Harem"
     },
     "Ironworks": {
-        "description": "Pak een kaart die ten hoogste 4 Coins waard is.\nIs het een... Actiekaart: +1 Actie. Geldkaart: +1 Coin. Overwinningskaart: +1 Kaart.",
+        "description": "Pak een kaart die ten hoogste 4 Coins kost. Is de gepakte kaart een...<left>Actiekaart: +1 Actie</left><left>Geldkaart: +1 Coin</left><left>Overwinningskaart: +1 Kaart</left>",
         "extra": " Je moet de kaart uit de voorraad pakken en op je aflegstapel leggen. Je krijgt een bonus, afhankelijk van de gekozen kaart. Voor een kaart die bij twee soorten hoort, krijg je beide bonussen. Voorbeeld: je gerbuikt de IJzergieterij om een Grote zaal te pakken. Je mag nu een kaart trekken (omdat de Grote Zall een overwinningskaart is) en je krijgt een extra actie (omdat de Grote Zaal een actiekaart is). De kosten van kaarten kunnen door de Brug beinvloed worden.]",
         "name": "IJzergieterij"
     },
     "Masquerade": {
-        "description": "+2 Kaarten\nIedere speler moet direct 1 kaart uit zijn hand neer links doorgeven. Daarna mag jij 1 kaart uit je hand vernietigen.",
+        "description": "+2 Kaarten\nIedere speler moet direct 1 kaart uit zijn hand naar links doorgeven. Daarna mag jij 1 kaart uit je hand vernietigen.",
         "extra": " Je trekt eerst 2 kaarten. Daarna kiest iedere speler (tegelijk) één kaart uit zijn hand en legt deze gedekt tussen hemzelf en zijn linkerbuurman. De linkerbuurman neemt de doorgegeven kaart in zijn hand. Doorgeven gebeurt simultaan. Een speler kan dus niet eerst de ontvangen kaart bekijken en dan zelf een kaart doorgeven. Daarna mag alleen jij (de speler die de Maskerade speelde) een kaart uit zijn hand vernietigen. Dit geldt niet als aanval, waardoor er niet met een Slotgracht of een Geheime Kamer op kan worden gereageerd.",
         "name": "Maskerade"
     },
     "Mining Village": {
-        "description": "+1 Kaart\n+2 Actie\nJe mag deze kaart direct vernietigen. Als je dat doet: +2 Coins.",
+        "description": "+1 Kaart\n+2 Acties\nJe mag deze kaart direct vernietigen.<n>Als je dat doet: +2 Coins.",
         "extra": " Je moet beslissen of je het Mijndorp al dan niet vernietigt, voordat je een andere actie speelt of verdergaat met de volgende fase. Je krijgt een kaart en 2 extra acties, ongeacht deze beslissing. Als je het mijndorp vernietigt, krijg je ook +2 Coins deze beurt. Als je Troonzaal voor een Mijndorp gebruikt, kun je het Mijndorp niet tweemaal vernietigen. Voor de eerste actie krijg je +1 Kaart, +2 Acties en +2 Coins voor het vernietigen. Voor de tweede keer dat je de kaart speelt krijg je +1 Kaart en +2 Acties, maar je kunt de kaart niet nogmaals vernietigen.",
         "name": "Mijndorp"
     },
@@ -1512,7 +1512,7 @@
         "name": "Adel"
     },
     "Pawn": {
-        "description": "Kies twee verschillende van de volgende opties:\n+1 Kaart, +1 Actie, +1 Aanschaf, +1 Coin.",
+        "description": "Kies twee verschillende van de volgende opties:\n+1 Kaart;<n>+1 Actie;<n>+1 Aanschaf;<n>+1 Coin.",
         "extra": " Kies eerst twee van de vier opties. Je moet verschillende kiezen. Daarna voer je de acties in een volgorde naar keuze uit. Je mag dus niet een kaart trekken, deze bekijken en dan pas je tweede keuze maken.",
         "name": "Pion"
     },
@@ -1522,12 +1522,12 @@
         "name": "Sloppenwijk"
     },
     "Steward": {
-        "description": "Kies één van de volgende opties: +2 Kaarten; of +2 Coins; or vernietig 2 kaarten uit je hand.",
+        "description": "Kies één van de volgende opties:<n>+2 Kaarten;<n>of +2 Coins;<n>of vernietig 2 kaarten uit je hand.",
         "extra": " Als je ervoor kiest om 2 kaarten te vernietigen en je hebt 2 of meer kaarten in je hand, moet je precies 2 kaarten vernietigen. Als je maar 1 kaart in je hand hebt, mag je ervoor kiezen om 2 kaarten te vernietigen. In dat geval vernietig je uitsluitend die ene kaart. Je kunt de verschillende opties niet met elkaar combineren.",
         "name": "Lakei"
     },
     "Swindler": {
-        "description": "+2 Coins\nIedere andere speler moet de bovenste kaart van zijn trekstapel vernietigen en ontvangt een kaart met dezelfde waarde naar jouw keuze.",
+        "description": "+2 Coins\nIedere andere speler vernietigt de bovenste kaart van zijn trekstapel en pakt een kaart met dezelfde kosten als de vernietigde kaart naar jouw keuze.",
         "extra": " Een speler die geen kaarten in zijn trekstapel heeft, moet eerst zijn aflegstapel schudden. Een speler die ook geen aflegstapel heeft, hoeft geen kaat te vernietigen en pakt er ook geen. Als de beurtvolgorde van belang is, begin dan bij je linkerbuurman en vervolg met de klok mee. Spelers leggen gepakte kaarten op hun aflegstapel. Je mag een speler die een kaart met waarde 0 (koper bijvoorbeeld) vernietigt een vloekkaart geven. Je mag een speler een exemplaar geven van dezelfde kaart als die hij vernietigt. Je moet de te pakken kaarten uit de voorraad kiezen. Deze moeten beschikbaar zijn (je kunt geen lege stapel kiezen). Als er geen kaarten met dezelfde waarde meer beschikbaar zijn, krijgt de berokken speler niets. Een speler die een slotgracht toont, hoeft geen kaart van zijn trekstapel te tonen, niets te vernietigen en pakt ook niets.",
         "name": "Oplichter"
     },
@@ -1542,7 +1542,7 @@
         "name": "Handelspost"
     },
     "Upgrade": {
-        "description": "+1 Kaart\n+1 Actie\nVernietig een kaart uit je hand. Pak een kaart die precies 1 Coins meer waard is dan de vernietigde kaart.",
+        "description": "+1 Kaart\n+1 Actie\nVernietig een kaart uit je hand. Pak een kaart die precies 1 Coins meer kost dan de vernietigde kaart.",
         "extra": " Trek eerst een kaart. Daarna moet je een kaart uit je hand vernietigen en een kaart pakken die precies 1 Coinsmeer waard is dan de vernietigde kaart. Je moet de kaart uit de voorraad pakken en op je aflegstapel leggen. Als er geen kaarten met deze kosten beschikbaar zijn, krijg je niets ( je moet echter wel een kaart vernietigen). Als je geen kaart kunt vernietigen, mag je ook geen kaart pakken. De kosten van kaarten worden door de Brug beïnvloed. In de meeste gevallen heeft dat geen effect, omdat je zowel op de vernietigde als de gepakte kaart 1 Coins korting krijgt. Maar omdat de kosten van een kaart nooit lager dan 0 Coins kunnen zijn, zou je met behulp van een Brug en een opwaardering een Koper (kost 0, zelfs met een Brug) kunnen vernietigen en een landgoed (kost 1 met een brug) kunnen pakken..",
         "name": "Opwaardering"
     },
